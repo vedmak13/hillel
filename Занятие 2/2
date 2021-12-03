@@ -1,0 +1,13 @@
+a = 12
+c = "gh"
+
+print(a)
+
+
+
+def foo():
+    print("Hello")
+
+foo()
+
+print("end of file")
